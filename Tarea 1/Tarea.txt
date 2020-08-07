@@ -2,7 +2,7 @@ La programación imperativa muestra como se resuelve el problema por medio de al
 La programación declarativa solo muestra que tiene que resolverse el problema pero no "como resolverlo" porque se resuelve con procesos internos.
 
 Ejemplo programación imperativa:
-listaParticipantes = [1 => 'Peter', 2 => 'Hans', 3 => 'Sarah']
+listaParticipantes = ["Peter", "Hans", "Sarah"]
 nombres = []
 for name in listaParticipantes:
     nombres[] = name;
